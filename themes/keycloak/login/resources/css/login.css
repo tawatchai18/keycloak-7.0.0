@@ -1,5 +1,6 @@
 .login-pf body {
-    background: url("../img/keycloak-bg.png") no-repeat center center fixed;
+    /* background: url("../img/keycloak-bg.png") no-repeat center center fixed; */
+    background: #f2f4f8;
     background-size: cover;
 }
 
