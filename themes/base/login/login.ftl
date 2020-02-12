@@ -38,7 +38,7 @@
 
 </@layout.registrationLayout>
 <center>
-<br /><br /><br />
+<br /><br />
  <div id="kc-registration">
                 <span>${msg("noAccount")} <a tabindex="6" href="${url.registrationUrl}">${msg("doRegister")}</a></span>
             </div>
