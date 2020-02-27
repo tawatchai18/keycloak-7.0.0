@@ -379,6 +379,7 @@ a.zocial  {
   max-width: 500px;
   border-top: 0;
   box-shadow: 0 0 0;
+  border-radius: 10px;
 }
 
 /*tablet*/
@@ -406,6 +407,7 @@ a.zocial  {
   font-size: 15px;
   color: #72767b;
 }
+
 #kc-content-wrapper .row {
   margin-left: 0;
   margin-right: 0;

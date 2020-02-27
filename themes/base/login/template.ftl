@@ -70,7 +70,6 @@
           </#if>
 
           <#nested "form">
-
           <#if displayInfo>
               <div id="kc-info" class="${properties.kcSignUpClass!}">
                   <div id="kc-info-wrapper" class="${properties.kcInfoAreaWrapperClass!}">
@@ -80,9 +79,9 @@
           </#if>
         </div>
       </div>
-
     </div>
   </div>
 </body>
 </html>
 </#macro>
+ 
